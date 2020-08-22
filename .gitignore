@@ -1,0 +1,10 @@
+*.cpp
+*.pyc
+*.npy
+BSDS300/
+deprecated/
+.idea
+out
+dist
+venv
+__pycache__
