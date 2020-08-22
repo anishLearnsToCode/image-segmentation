@@ -1,6 +1,4 @@
-from collections import deque
 import numpy as np
-import sys
 
 
 def preFlows(C, F, heights, eflows, s):
