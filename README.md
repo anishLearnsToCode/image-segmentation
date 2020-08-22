@@ -1,6 +1,8 @@
 # Image Segmentation
 __Anish Sachdeva (DTU/2K16/MC/013)__
 
+![made-with-python3](https://img.shields.io/badge/Made%20with-Python%203-1f425f.svg)
+
 ## Overview
 1. [Introduction](#introduction)
 1. [Running It On Your Machine](#running-it-on-your-machine)
