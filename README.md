@@ -1,9 +1,5 @@
 # Image Segmentation
 
-## Website
-
-For detailed description, please visit https://julie-jiang.github.io/image-segmentation/. 
-
 ## Usage
 ``` 
 python imagesegmentation.py filename
@@ -45,6 +41,3 @@ Original, seeded, and segmented image
 Original, seeded, and segmented image
 
 ![baby.jpg](images/baby.jpg)![babyseeded.jpg](images/babyseeded.jpg)![babycut.jpg](images/babycut.jpg)
-
-
-
