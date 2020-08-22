@@ -7,9 +7,9 @@ from math import exp, pow
 import cv2
 import numpy as np
 
-from augmentingPath import augmentingPath
-from boykovKolmogorov import boykovKolmogorov
-from pushRelabel import pushRelabel
+from src.augmentingPath import augmentingPath
+from src.boykovKolmogorov import boykovKolmogorov
+from src.pushRelabel import pushRelabel
 
 # np.set_printoptions(threshold=np.inf)
 graphCutAlgo = {"ap": augmentingPath,
