@@ -52,13 +52,17 @@ python imagesegmentation.py images/baby/baby.jpg --size=50
 Following are a few examples of Original, seeded, and segmented images:
 
 1. `python imagesegmentation.py images/test1/test1.jpg` 
+
 ![test1.jpg](images/test1/test1.jpg) ![test1seeded.jpg](images/test1/test1seeded.jpg) ![test1cut.jpg](images/test1/test1cut.jpg)
 
 2. `python imagesegmentation.py images/test2/test2.jpg`
+
 ![test2.jpg](images/test2/test2.jpg)![test2seeded.jpg](images/test2/test2seeded.jpg)![test2cut.jpg](images/test2/test2cut.jpg)
 
 3. `python imagesegmentation.py images/test3/test3.jpg`
+
 ![test3.jpg](images/test3/test3.jpg)![test3seeded.jpg](images/test3/test3seeded.jpg)![test3cut.jpg](images/test3/test3cut.jpg)
 
 4. `python imagesegmentation.py images/baby/baby.jpg`
+
 ![baby.jpg](images/baby/baby.jpg)![babyseeded.jpg](images/baby/babyseeded.jpg)![babycut.jpg](images/baby/babycut.jpg)
